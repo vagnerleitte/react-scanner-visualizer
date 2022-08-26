@@ -1,0 +1,23 @@
+{
+  "name": "gestao-benchmark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vagner Leitte <vagner.silva@solides.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "sequelize": "^6.21.4",
+    "sqlite3": "^5.0.11"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "config": "^3.3.7",
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
