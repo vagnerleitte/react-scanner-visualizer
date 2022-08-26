@@ -1,7 +1,7 @@
 {
   "name": "gestao-benchmark",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "author": "Vagner Leitte <vagner.silva@solides.com.br>",
   "license": "MIT",
   "devDependencies": {
